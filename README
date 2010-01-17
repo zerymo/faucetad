@@ -1,0 +1,12 @@
+# faucetad.pl [faucet auto downloader]
+# v. 0.3 [20080921] http://marcosiviero.org/blog
+# GPL 2 License
+
+# Instructions:
+# Set only variables below and then put this script in your crontab.
+#
+# Changelog:
+# v 0.3: [ADD] Email to user when directory space is terminate
+# v 0.2: [ADD] User can set max space used for files download
+# v 0.1: First version [20080419]
+
